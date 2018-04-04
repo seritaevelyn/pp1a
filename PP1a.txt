@@ -1,0 +1,11 @@
+#ifndef	PP1a Hello World
+#define	Program that has Hello world pop up
+#endif
+
+#include <stdio.h>
+
+main()
+{
+	printf("hello, world)\n);
+
+}
